@@ -59,9 +59,15 @@
 </p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salauddin-ahmad&" alt="salauddin-ahmad" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=salauddin-ahmad&show_icons=true&locale=en&layout=compact" alt="salauddin-ahmad" /></p>
+ <p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salauddin-ahmad&" alt="salauddin-ahmad" width="80%" />
+</p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=salauddin-ahmad&show_icons=true&locale=en&layout=compact" alt="salauddin-ahmad" />
+</p>
+
 
 
 
