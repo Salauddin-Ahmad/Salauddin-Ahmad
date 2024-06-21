@@ -58,18 +58,10 @@
   </a> 
 </p>
 
-<p align="left">
-  <a href="mailto:salauudinahmed555@gmail.com" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="gmail" width="40" height="40"/>
-  </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="linkedin" width="40" height="40"/>
-  </a>
-</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salauddin-ahmad&" alt="salauddin-ahmad" /></p>![image](https://github.com/Salauddin-Ahmad/Salauddin-Ahmad/assets/155472442/4bbf5ab5-b387-45b1-b442-fcec37aaaeb0)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salauddin-ahmad&" alt="salauddin-ahmad" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=salauddin-ahmad&show_icons=true&locale=en&layout=compact" alt="salauddin-ahmad" /></p>![image](https://github.com/Salauddin-Ahmad/Salauddin-Ahmad/assets/155472442/87670a8e-4874-4b79-b628-6c80c956b460)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=salauddin-ahmad&show_icons=true&locale=en&layout=compact" alt="salauddin-ahmad" /></p>
 
 
 
