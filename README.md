@@ -15,8 +15,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-
-<p align="left"> 
+<p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
   </a> 
@@ -58,16 +57,19 @@
   </a> 
 </p>
 
-<br>
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=salauddin-ahmad&show_icons=true&locale=en&layout=compact" alt="salauddin-ahmad" /></p>
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salauddin-ahmad&" alt="salauddin-ahmad" /></p>
+<p align="left">
+  <a href="mailto:salauudinahmed555@gmail.com" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="gmail" width="40" height="40"/>
+  </a>
+  <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="linkedin" width="40" height="40"/>
+  </a>
+</p>
 
 <br clear="both">
 
-<img src="https://raw. githubusercontent. com/maurodesouza/maurodesouza/output/snake. svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+
 
 ###
