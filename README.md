@@ -61,7 +61,7 @@
 
 
  <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salauddin-ahmad&" alt="salauddin-ahmad" width="80%" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salauddin-ahmad&" alt="salauddin-ahmad" width="40%" />
 </p>
 
 <p align="center">
