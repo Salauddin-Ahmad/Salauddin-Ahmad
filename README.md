@@ -7,14 +7,14 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salauddin-ahmad" alt="salauddin-ahmad" /></a> </p>
 
 
-- 🌱 I’m currently learning **React, NextJs, NodeJs, MongoDb, Express, Firebase, TypeScript**
+- 🌱 I’m currently learning and working with **React, NextJs, NodeJs, MongoDb, Express, Firebase, TypeScript, Tanstack query, Tailwind CSS, Javascript and more**
 
 - 💬 Ask me about **JAVASCRIPT AND MERN**
 
 - 📫 How to reach me **salauudinahmed555@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
 
 <p align="left"> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
@@ -65,3 +65,9 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salauddin-ahmad&" alt="salauddin-ahmad" /></p>
+
+<br clear="both">
+
+<img src="https://raw. githubusercontent. com/maurodesouza/maurodesouza/output/snake. svg" alt="Snake animation" />
+
+###
