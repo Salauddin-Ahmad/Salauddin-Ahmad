@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <p align="center">
   <img src="https://i.ibb.co/b7xPQQv/github-header-image-2.png" alt="GitHub Banner"/>
 </p>
@@ -60,7 +58,7 @@
 <h3 align="center">Familiar Technologies:</h3>
 <p align="center">
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" width="50" height="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="express" width="50" height="50"/>
   </a>
   <a href="https://aeternity.com/" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/29043131?s=200&v=4" alt="aeternity" width="50" height="50"/>
