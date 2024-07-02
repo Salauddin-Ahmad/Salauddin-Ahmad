@@ -4,8 +4,8 @@
   <img src="https://i.ibb.co/b7xPQQv/github-header-image-2.png" alt="GitHub Banner"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm MD. SALAUDDIN</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h1 align="center">Hi 👋, I'm Md. Salauddin</h1>
+<h3 align="center">A passionate web developer based in Bangladesh</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=salauddin-ahmad&label=Profile%20views&color=0e75b6&style=flat" alt="salauddin-ahmad" />
