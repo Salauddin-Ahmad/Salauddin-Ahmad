@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <p align="center">
   <img src="https://i.ibb.co/b7xPQQv/github-header-image-2.png" alt="GitHub Banner"/>
 </p>
@@ -54,6 +52,31 @@
   </a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="50"/>
+  </a>
+</p>
+
+<h3 align="center">Familiar Technologies:</h3>
+<p align="center">
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50"/>
+  </a>
+  <a href="https://aeternity.com/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/29043131?s=200&v=4" alt="aeternity" width="50" height="50"/>
+  </a>
+  <a href="https://material-ui.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="material" width="50" height="50"/>
+  </a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50"/>
+  </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="50" height="50"/>
+  </a>
+  <a href="https://tanstack.com/query/v3/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/55884029?s=200&v=4" alt="tanstack" width="50" height="50"/>
+  </a>
+  <a href="https://reactrouter.com/" target="_blank" rel="noreferrer">
+    <img src="https://reactrouter.com/_brand/react-router-mark-color.svg" alt="react router" width="50" height="50"/>
   </a>
 </p>
 
