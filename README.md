@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
-  <img src="https://i.ibb.co/QmVYbgb/github-header-image-2.png" alt="GitHub Banner"/>
+  <img src="https://i.ibb.co/b7xPQQv/github-header-image-2.png" alt="GitHub Banner"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm MD. SALAUDDIN</h1>
