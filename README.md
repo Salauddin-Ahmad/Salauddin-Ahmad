@@ -89,3 +89,5 @@
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=salauddin-ahmad&show_icons=true&locale=en&layout=compact" alt="salauddin-ahmad" />
 </p>
+
+<a href="https://app.daily.dev/salauddinvai"><img src="https://api.daily.dev/devcards/v2/waVbAtRlcnlllk5cwauN9.png?type=default&r=o5m" width="356" alt="Md. Salauddin's Dev Card"/></a>
