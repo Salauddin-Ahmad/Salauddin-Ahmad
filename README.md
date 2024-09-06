@@ -71,9 +71,7 @@
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="50" height="50"/>
   </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="50" height="50"/>
-  </a>
+ <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
   <a href="https://tanstack.com/query/v3/" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/55884029?s=200&v=4" alt="tanstack" width="50" height="50"/>
   </a>
@@ -90,4 +88,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=salauddin-ahmad&show_icons=true&locale=en&layout=compact" alt="salauddin-ahmad" />
 </p>
 
-<a align="center" href="https://app.daily.dev/salauddinvai"><img src="https://api.daily.dev/devcards/v2/waVbAtRlcnlllk5cwauN9.png?type=default&r=o5m" width="356" alt="Md. Salauddin's Dev Card"/></a>
+<p align="center">
+  <a href="https://app.daily.dev/salauddinvai">
+    <img src="https://api.daily.dev/devcards/v2/waVbAtRlcnlllk5cwauN9.png?type=default&r=o5m" width="356" alt="Md. Salauddin's Dev Card"/>
+  </a>
+</p>
