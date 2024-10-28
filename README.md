@@ -5,7 +5,9 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Md. Salauddin</h1>
-<h3 align="center">A passionate web developer based in Bangladesh</h3>
+<h    align="center"> Full-stack developer who loves building great web apps. Comfortable across the stack but get especially excited about clean APIs and smooth user experiences. Always learning and tinkering with new tech to find better ways to solve problems.
+Currently having fun with modern JavaScript and building scalable backends. Let's create something awesome! 🚀
+Simple, genuine, and professional while still showing some personality. </h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=salauddin-ahmad&label=Profile%20views&color=0e75b6&style=flat" alt="salauddin-ahmad" />
