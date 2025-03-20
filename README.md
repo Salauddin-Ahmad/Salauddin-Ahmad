@@ -35,10 +35,6 @@ Simple, genuine, and professional while still showing some personality. </h3>
 </p>
 
 <p align="center">
-[![GitHub Streak](https://streak-stats.demolab.com?user=Salauddin-Ahmad)](https://git.io/streak-stats)
-</p>
-
-<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=salauddin-ahmad&show_icons=true&locale=en&layout=compact" alt="salauddin-ahmad" />
 </p>
 
